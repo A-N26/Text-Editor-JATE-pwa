@@ -17,7 +17,7 @@ Javascript, Node.js, IndexedDB
 ## _Table of Contents📖_
 
 - [Installation](#Installation)💾
-- [Usage](#Usage)🖥️
+- [Usage](#Usage)🖥
 - [Links](#Links)📎
 - [Credits](#Credits)💳
 - [Licence](#License)🪪
@@ -34,7 +34,7 @@ Javascript, Node.js, IndexedDB
 2. `npm i` to install all npm dependencies.
    1. `npm run start:dev` to build and run app.
 
-## _Usage🖥️_
+## _Usage🖥_
 
 1. `npm run start` to run the app.
 2. In browser, type `https://localhost:3001` _(or preferred port#)_, to view the app.
